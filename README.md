@@ -4,7 +4,7 @@
 
 <!-- Picture -->
 <p align="center">
-  <img src="https://github.com/abdullahfahim2/abdullahfahim2/blob/main/python-2.gif?raw=true" alt="coding" width="400">
+  <img src="https://github.com/abdullahfahim2/abdullahfahim2/blob/main/python-2.gif?raw=true" alt="coding" width="600">
 </p>
 
 <!-- Profile Views -->
