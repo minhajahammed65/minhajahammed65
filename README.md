@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">👋 Hi there, I'm Md Minhaj Ahammed</h1>
-<h3 align="center">Former Python Programming Trainer in Digicon Technologies PLC. </h3>
+<h3 align="center">Former Python Programming Trainer in Future Care IT Institute. </h3>
 
 <!-- Picture -->
 <p align="center">
