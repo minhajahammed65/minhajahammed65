@@ -49,8 +49,9 @@ I'm **Md Minhaj Ahammed** - passionate about **Python**, **Django**, and teachin
 
 ### 🛠 Skills & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,python,js,react,mysql,git" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,python,java,js,react,mysql,postgresql,mongodb,git,figma,canva" alt="skills" />
 </p>
+
 
 ---
 
