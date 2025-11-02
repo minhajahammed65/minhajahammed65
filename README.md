@@ -1,13 +1,4 @@
 <!-- Banner / 3D-like ASCII Title -->
-<p align="center">
-  <pre align="center" style="line-height:0.9; font-family:monospace;">
-   __  __ _ _       _   _       _     
-  |  \/  (_) | ___ | \ | | __ _| |__  
-  | |\/| | | |/ _ \|  \| |/ _` | '_ \ 
-  | |  | | | | (_) | |\  | (_| | |_) |
-  |_|  |_|_|_|\___/|_| \_|\__,_|_.__/ 
-  </pre>
-</p>
 
 <!-- Header -->
 <h1 align="center">👋 Hi, I'm <strong>Md Minhaj Ahammed</strong></h1>
