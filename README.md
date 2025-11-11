@@ -1,5 +1,3 @@
-<!-- Banner / 3D-like ASCII Title -->
-
 <!-- Header -->
 <h1 align="center">👋 Hello, I'm <strong>Md Minhaj Ahammed</strong></h1>
 <h3 align="center">Former Java Programming Trainer • Python Developer • Django & DRF Enthusiast</h3>
